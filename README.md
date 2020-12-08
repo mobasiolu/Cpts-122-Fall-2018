@@ -13,4 +13,4 @@ PA 5 - Exercise Planner and Diet Planner
 
 PA 6 - Morse Code Lookup System using BSTs
 
-PA 8 - Data Analysis for Financial Transactions 
+PA 8 - Data Analysis for Financial Transactions using BSTs
